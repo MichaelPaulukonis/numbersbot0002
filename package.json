@@ -1,0 +1,24 @@
+{
+  "name": "numbersbot01",
+  "version": "0.0.1",
+  "description": "the fingerprints",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:michaelpaulukonis.numbersbot01.git"
+  },
+  "author": "Michael Paulukonis",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/michaelpaulukonis/numbersbot01/issues"
+  },
+  "engines": {
+    "node": "0.12.0"
+  },
+  "dependencies": {
+    "twit": "~1.1.9"
+  }
+}
